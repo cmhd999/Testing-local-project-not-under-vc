@@ -1,0 +1,1 @@
+print("Test script for local project not under vc, then linked to GitHub.")
